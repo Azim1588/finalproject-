@@ -16,5 +16,7 @@
 ### Spell Checking: Enter a word you wish to spell-check. The program will inform you whether the word is valid (present in the dictionary) or provide the closest match if the word is misspelled.
 
 ## Dictionary File Format
-The dictionary file should contain one word per line. All words should be in lowercase for accurate spell checking. Any non-alphabetic characters or uppercase letters in the dictionary file may lead to unexpected results.
+### The dictionary file should contain one word per line. All words should be in lowercase for accurate spell checking. Any non-alphabetic characters or uppercase letters in the dictionary file may lead to unexpected results.
+### ![project](https://github.com/Azim1588/finalproject-/assets/114971320/b48cafbd-d25c-4076-8231-010ac9c6bc71)
+
 
